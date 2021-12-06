@@ -2,7 +2,7 @@
 
 An extended twig code style guide. Based on [the official Coding Standarts](https://twig.symfony.com/doc/2.x/coding_standards.html) and extended with ❤️ by Sergey Gromkov.
 
-The current style guide contains all the rules of [the official guide](https://twig.symfony.com/doc/2.x/coding_standards.html), and additional rules I implemented working in matchtv.ru.
+The current style guide contains all the rules of [the official guide](https://twig.symfony.com/doc/2.x/coding_standards.html), and additional rules I implemented working in [matchtv.ru](https://matchtv.ru).
 
 ## Horizontal spaces
 
