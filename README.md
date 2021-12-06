@@ -25,7 +25,7 @@ Put one (and only one) space:
 ❌ bad
 
 {{foo}}
-{#comment }
+{#comment#}
 {%if foo%}{%endif%}  
 ```
 
